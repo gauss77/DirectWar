@@ -2,7 +2,7 @@
 
 I created this game in 2004 as my very first game project for fun. It is a simple 2D game written in Visual Basic 6 using DirectX 7.0 API. DirectX parts are created as modules as the game used sound, music, drawing and input functions from DirectX. This project can be used for learning the basics of game programming hehe.
 
-My computer was at that time hehe:  
+My computer was at that time(hehe):  
 Pentium 233 Mhz  
 32 MB RAM  
 4 MB VGA  
