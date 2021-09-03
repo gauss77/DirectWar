@@ -14,18 +14,18 @@ I have recently tested it again in recent Linux distributions and it works fine 
 
 You can run the game using Dwar.exe but you need DirectX 7 for Visual Basic along with few other library files as follows:
 
-MSVBVM60.DLL
-OLEAUT32.DLL
-Olepro32.dll
-ASYCFILT.DLL
-STDOLE2.TLB
-COMCAT.DLL
-dx7vb.dll
+MSVBVM60.DLL  
+OLEAUT32.DLL  
+Olepro32.dll  
+ASYCFILT.DLL  
+STDOLE2.TLB  
+COMCAT.DLL  
+dx7vb.dll  
 
 To play control the plane with KeyBoard buttons
 
--A Fire
--S Bomb
+A for firing  
+S for bomb    
 
 Cheers!
 
