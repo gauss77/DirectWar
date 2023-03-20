@@ -29,4 +29,4 @@ S for bomb
 
 Cheers!
 
-Md Imam Hossain (emamhd@gmail.com)
+Imam Hossain (emamhd@gmail.com)
